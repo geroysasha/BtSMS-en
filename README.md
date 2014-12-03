@@ -21,9 +21,9 @@ Testing was conducted on a real device running Android 4.1.1.
 
 2. Features of the application.
 
-- Connect any phone equipped with Bluetooth interface;
+- Connecting any phone equipped with Bluetooth interface;
 - Reading sms from phone memory and SIM card memory;
-- Delete SMS from phone memory and SIM card memory;
+- Deleting SMS from phone memory and SIM card memory;
 - Display on the screen according to the selected SMS status (read / ( no read) sent / (no sent));
 - Sending sms;
 - The ability to choose the recipient's number from the phone book of the connected phone.
