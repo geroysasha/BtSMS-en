@@ -37,5 +37,5 @@ using direct AT-commands;
 4) support only Latin characters;
 5) does not send SMS via phone with two SIM cards
 
-Developer - Karpenko Alexander
+Developer - Aleksandr V. Karpenko 
 e-mail: karpenkoav@ukr.net
